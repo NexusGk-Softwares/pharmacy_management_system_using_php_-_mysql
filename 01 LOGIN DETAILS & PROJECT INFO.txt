@@ -1,0 +1,18 @@
+************** Pharmacy Sales and Inventory Management System ****************
+**Admin Login Details**
+Username: admin
+Password: admin123
+
+**Staff Login Details**
+Username: staff
+Password: pass
+
+
+***********************************************
+**Orginal Version Developed by: B.M. Ashik Mahmud
+**Orginal Version Published @: https://freeprojectscodes.com/ [https://freeprojectscodes.com/pharmacy-management-system-in-php/]
+***********************************************
+**Customized by: oretnom23
+**Publisehd @: sourcecodester.com [https://sourcecodester.com/php-codeigniter-pharmacy-sales-and-inventory-management-system-project]
+***********************************************
+
